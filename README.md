@@ -7,7 +7,7 @@ Full-Stack Software Engineer
 A passion for full-stack development, cloud computing, and solving real-world problems through tech. Experienced in Node.js, Express, React, and Firebase, with hands-on work in API integration, backend optimization, and agile projects.
 
 * 🌍  I'm currently in Malaysia
-* ✉️  You can contact me at [medosami.per@gmail.com](mailto:medosami.per@gmail.com)
+* ✉️  You can contact me at [medosami.per@gmail.com](mailto:mohamedsami.per@gmail.com)
 * 🧠  I'm learning PyTorch , TensorFlow
 * 🤝  I'm open to collaborating on Always open to collaborating on exciting tech projects—feel free to reach out!
 
